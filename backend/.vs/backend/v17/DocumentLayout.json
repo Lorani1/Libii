@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Librarii\\backend\\",
+  "WorkspaceRootPath": "C:\\Git\\Libii\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|c:\\users\\lenovo\\desktop\\librarii\\backend\\backend\\controllers\\staficontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\staficontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|c:\\users\\lenovo\\desktop\\librarii\\backend\\backend\\entity\\stafi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|solutionrelative:backend\\entity\\stafi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|c:\\users\\lenovo\\desktop\\librarii\\backend\\backend\\migrations\\20240411211408_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|solutionrelative:backend\\migrations\\20240411211408_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|c:\\users\\lenovo\\desktop\\librarii\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|c:\\users\\lenovo\\desktop\\librarii\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|c:\\git\\libii\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|c:\\users\\lenovo\\desktop\\librarii\\backend\\backend\\entity\\staficontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|c:\\git\\libii\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|c:\\git\\libii\\backend\\backend\\controllers\\staficontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\staficontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|c:\\git\\libii\\backend\\backend\\entity\\stafi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|solutionrelative:backend\\entity\\stafi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|c:\\git\\libii\\backend\\backend\\migrations\\20240411211408_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|solutionrelative:backend\\migrations\\20240411211408_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|c:\\git\\libii\\backend\\backend\\entity\\staficontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3D0D790-AE30-4F7D-A1F3-0CFE853F3FC8}|backend\\backend.csproj|solutionrelative:backend\\entity\\staficontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,28 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "StafiController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Librarii\\backend\\backend\\Controllers\\StafiController.cs",
+              "DocumentMoniker": "C:\\Git\\Libii\\backend\\backend\\Controllers\\StafiController.cs",
               "RelativeDocumentMoniker": "backend\\Controllers\\StafiController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Librarii\\backend\\backend\\Controllers\\StafiController.cs",
+              "ToolTip": "C:\\Git\\Libii\\backend\\backend\\Controllers\\StafiController.cs",
               "RelativeToolTip": "backend\\Controllers\\StafiController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T21:14:35.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "20240411211408_initial.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Librarii\\backend\\backend\\Migrations\\20240411211408_initial.cs",
+              "DocumentMoniker": "C:\\Git\\Libii\\backend\\backend\\Migrations\\20240411211408_initial.cs",
               "RelativeDocumentMoniker": "backend\\Migrations\\20240411211408_initial.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Librarii\\backend\\backend\\Migrations\\20240411211408_initial.cs",
+              "ToolTip": "C:\\Git\\Libii\\backend\\backend\\Migrations\\20240411211408_initial.cs",
               "RelativeToolTip": "backend\\Migrations\\20240411211408_initial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -63,35 +63,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Librarii\\backend\\backend\\Program.cs",
+              "DocumentMoniker": "C:\\Git\\Libii\\backend\\backend\\Program.cs",
               "RelativeDocumentMoniker": "backend\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Librarii\\backend\\backend\\Program.cs",
+              "ToolTip": "C:\\Git\\Libii\\backend\\backend\\Program.cs",
               "RelativeToolTip": "backend\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBwAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T21:10:27.452Z"
+              "WhenOpened": "2024-04-11T21:10:27.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Librarii\\backend\\backend\\appsettings.json",
+              "DocumentMoniker": "C:\\Git\\Libii\\backend\\backend\\appsettings.json",
               "RelativeDocumentMoniker": "backend\\appsettings.json",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Librarii\\backend\\backend\\appsettings.json",
+              "ToolTip": "C:\\Git\\Libii\\backend\\backend\\appsettings.json",
               "RelativeToolTip": "backend\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-11T21:08:52.281Z"
+              "WhenOpened": "2024-04-11T21:08:52.281Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "StafiContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Librarii\\backend\\backend\\Entity\\StafiContext.cs",
+              "DocumentMoniker": "C:\\Git\\Libii\\backend\\backend\\Entity\\StafiContext.cs",
               "RelativeDocumentMoniker": "backend\\Entity\\StafiContext.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Librarii\\backend\\backend\\Entity\\StafiContext.cs",
+              "ToolTip": "C:\\Git\\Libii\\backend\\backend\\Entity\\StafiContext.cs",
               "RelativeToolTip": "backend\\Entity\\StafiContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,11 +101,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Stafi.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Librarii\\backend\\backend\\Entity\\Stafi.cs",
+              "DocumentMoniker": "C:\\Git\\Libii\\backend\\backend\\Entity\\Stafi.cs",
               "RelativeDocumentMoniker": "backend\\Entity\\Stafi.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Librarii\\backend\\backend\\Entity\\Stafi.cs",
+              "ToolTip": "C:\\Git\\Libii\\backend\\backend\\Entity\\Stafi.cs",
               "RelativeToolTip": "backend\\Entity\\Stafi.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
